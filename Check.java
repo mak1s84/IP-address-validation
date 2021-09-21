@@ -52,5 +52,11 @@ public class Check {
         }
     }
 
+    public boolean isIPV4Address(String address)
+    {
+        String[] arrayAddress = address.split("\\.");
+        return arrayAddress.length == 4;
+    }
+
 
 }
