@@ -18,6 +18,7 @@ public class Check {
                 }
             } catch (NumberFormatException e) {
                 System.out.println("Error detected -> " + e);
+                e.printStackTrace();
             }
         } else {
             System.out.println("The number of digit groups is not 4.");
