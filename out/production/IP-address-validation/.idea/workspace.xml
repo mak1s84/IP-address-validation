@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fe1d294f-ab11-4774-9ac8-7569d990f983" name="Changes" comment="New relase is comming soon.">
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IP-address-validation/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IP-address-validation/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IP-address-validation/.idea/runConfigurations.xml" beforeDir="false" />
+    <list default="true" id="fe1d294f-ab11-4774-9ac8-7569d990f983" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/out/production/IP-address-validation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IP-address-validation/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IP-address-validation/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IP-address-validation/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +12,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="HARD" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1yRvPjwKzfGfaazbP7xr8D2r6Mo" />
   <component name="ProjectViewState">
@@ -80,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632235371609</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added printStackTrace() method in try-catch block.">
+      <created>1632912961580</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1632912961584</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -99,7 +100,8 @@
     <MESSAGE value="New boolean method was added." />
     <MESSAGE value="Rewrote the program logic. These are now separate methods." />
     <MESSAGE value="New relase is comming soon." />
-    <option name="LAST_COMMIT_MESSAGE" value="New relase is comming soon." />
+    <MESSAGE value="Added printStackTrace() method in try-catch block." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added printStackTrace() method in try-catch block." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
